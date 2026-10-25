@@ -1,0 +1,7 @@
+plugins {
+ id("com.android.application") version "9.1.1" apply false
+ id("org.jetbrains.kotlin.android") version "2.2.20" apply false
+ id("org.jetbrains.kotlin.plugin.compose") version "2.2.20" apply false
+}
+
+layout.buildDirectory.set(file(System.getProperty("user.home") + "/.cache/weather/build/root"))

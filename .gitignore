@@ -1,0 +1,25 @@
+# Local tools, generated output and signing material
+.gradle/
+.kotlin/
+.idea/
+**/build/
+*.iml
+local.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+signing.properties
+.env
+.env.*
+.DS_Store
+
+# Private development records and historical device evidence
+/AGENTS.md
+/PRODUCT.md
+/DESIGN.md
+/VALIDATION.md
+/Evidence/
+/Releases/
+.shared-memory*
+*.log

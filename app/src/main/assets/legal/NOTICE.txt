@@ -1,0 +1,18 @@
+Weather for Android
+Copyright (c) 2026 Kian Konrad Tajbakhsh
+Original application source and artwork: MIT License (see LICENSE / legal/MIT.txt).
+
+Third-party software remains under its own licenses. AndroidX, Kotlin, kotlinx.coroutines, OkHttp, Okio and other Apache-licensed components use Apache License 2.0. MapLibre Native and its native dependencies retain their upstream notices in MapLibre_Android_13.6.1.txt. The resolved runtime inventory is in DEPENDENCIES.md; bundled artifact notices are in Bundled_Dependency_Notices.txt.
+
+Weather and geographic data are not relicensed under the app's MIT license.
+Forecasts and geocoding: Open-Meteo, https://open-meteo.com/ (CC BY 4.0 data; free API limited to noncommercial use and its published quotas).
+City search data: GeoNames, https://www.geonames.org/ (via Open-Meteo geocoding).
+Air quality: Copernicus Atmosphere Monitoring Service (CAMS), via Open-Meteo; https://open-meteo.com/en/docs/air-quality-api
+Radar: RainViewer, https://www.rainviewer.com/ (free personal, educational and small-scale community API; attribution required).
+Base maps: OpenFreeMap, https://openfreemap.org/
+Map data: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright (ODbL).
+Map schema and style: © OpenMapTiles contributors, https://openmaptiles.org/; https://github.com/openmaptiles/dark-matter-gl-style (BSD-3-Clause code; CC BY 4.0 design). Derived from CartoDB Basemaps, designed by Stamen and Paul Norman for CartoDB Inc.
+
+The app adapts the dark map style's labels, halos and overlay order. Forecast-derived current values may be interpolated between valid hourly samples; regional temperature-map values are interpolated between geographic samples. These transformations are estimates, not additional observations. Provider endpoints are queried directly and no data dump is bundled.
+
+Whicons inspired the monochrome visual style. Its artwork and code are not included. Android and other product names belong to their respective owners; no endorsement is implied.

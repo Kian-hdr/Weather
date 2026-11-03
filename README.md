@@ -2,7 +2,13 @@
 
 A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
 
-**[Download the latest APK](https://github.com/Kian-hdr/Weather/releases/latest)** · [MIT license](LICENSE) · [Privacy](PRIVACY.md)
+[MIT license](LICENSE) · [Privacy](PRIVACY.md)
+
+<!-- direct-downloads -->
+[![Download Android APK](https://img.shields.io/badge/Download%20Android%20APK-24292F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk)
+
+[Download Android APK](https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk) · [Release v1.1.1](https://github.com/Kian-hdr/Weather/releases/tag/v1.1.1)
+<!-- /direct-downloads -->
 
 ## Screenshots
 

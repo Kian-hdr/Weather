@@ -1,16 +1,16 @@
-# Weather for Android
+<h1 align="center">Weather for Android</h1>
 
-A calm, open-source weather app for Android.
+<p align="center">A calm, open-source weather app for Android.</p>
 
-## Download
+<h2 align="center">Download</h2>
 
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for Android"></a>
 </p>
 
-[APK · v1.1.1](https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk)
+<p align="center"><a href="https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk">APK · v1.1.1</a></p>
 
-[Release notes](https://github.com/Kian-hdr/Weather/releases/tag/v1.1.1)
+<p align="center"><a href="https://github.com/Kian-hdr/Weather/releases/tag/v1.1.1">Release notes</a></p>
 
 A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
 

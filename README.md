@@ -1,6 +1,6 @@
 # Weather for Android
 
-A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
+A calm, open-source weather app for Android.
 
 ## Download
 
@@ -11,6 +11,8 @@ A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed f
 [APK · v1.1.1](https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk)
 
 [Release notes](https://github.com/Kian-hdr/Weather/releases/tag/v1.1.1)
+
+A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
 
 [MIT license](LICENSE) · [Privacy](PRIVACY.md)
 

@@ -20,9 +20,11 @@ A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed f
 
 Actual app captures from an Android emulator. Forecast and map images show the provider data available at capture time; they are not a current weather report.
 
-| Forecast | Weather details | Rainfall radar |
-| --- | --- | --- |
-| ![Weather forecast with translucent cards](docs/screenshots/Forecast.png) | ![Temperature chart and hourly details](docs/screenshots/Temperature_Details.png) | ![Rainfall radar over a dark map](docs/screenshots/Rainfall_Radar.png) |
+<p align="center"><img src="docs/screenshots/Forecast.png" width="300" alt="Weather forecast with translucent cards"></p>
+
+| Weather details | Rainfall radar |
+| --- | --- |
+| ![Temperature chart and hourly details](docs/screenshots/Temperature_Details.png) | ![Rainfall radar over a dark map](docs/screenshots/Rainfall_Radar.png) |
 
 Forecasts: [Open-Meteo](https://open-meteo.com/). Radar: [RainViewer](https://www.rainviewer.com/). Maps: [OpenFreeMap](https://openfreemap.org/), [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright) and [© OpenMapTiles](https://openmaptiles.org/). [Full attributions](THIRD_PARTY_NOTICES.md).
 

@@ -1,6 +1,6 @@
 # Contributing
 
-Weather is created and maintained by Kian Konrad Tajbakhsh. Contributions are welcome under the project's MIT license.
+Weather is created and maintained by Kian Konrad. Contributions are welcome under the project's MIT license.
 
 - Keep the app native, accessible and useful without location permission.
 - Preserve the quiet interface, clear source attribution and honest offline/forecast timestamps.

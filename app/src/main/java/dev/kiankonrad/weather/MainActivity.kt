@@ -431,7 +431,7 @@ private fun SettingsScreen(imperial: Boolean,onImperial: (Boolean)->Unit,onClose
   Glass {Text("Data & attribution",fontSize=22.sp);Text("Forecasts: Open-Meteo\nAir quality: CAMS via Open-Meteo\nRainfall radar: RainViewer\nMap data: © OpenStreetMap contributors\nDark basemap: OpenFreeMap · © OpenMapTiles\nMaps: MapLibre Native",Modifier.padding(top=12.dp),lineHeight=26.sp)
    listOf("Open-Meteo" to "https://open-meteo.com/", "RainViewer" to "https://www.rainviewer.com/", "OpenStreetMap contributors" to "https://www.openstreetmap.org/copyright", "OpenFreeMap" to "https://openfreemap.org/", "OpenMapTiles style credits and license" to "https://github.com/openmaptiles/dark-matter-gl-style/blob/master/LICENSE.md").forEach{(name,url)->TextButton(onClick={context.startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW,android.net.Uri.parse(url)))}){Text(name)}}
   }
-  Text("Weather 1.1.1\nCreated by Kian Konrad Tajbakhsh\nOpen source · MIT license",fontSize=13.sp,color=Muted,lineHeight=21.sp)
+  Text("Weather 1.1.1\nCreated by Kian Konrad\nOpen source · MIT license",fontSize=13.sp,color=Muted,lineHeight=21.sp)
   TextButton(onClick={showLicenses=true}) {Text("Open-source licenses")}
   TextButton(onClick={context.startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW,android.net.Uri.parse("https://github.com/Kian-hdr/Weather")))}) {Text("Source code & downloads")}
  }

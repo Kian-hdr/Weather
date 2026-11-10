@@ -46,7 +46,7 @@ class PublicationTest {
         }
         waitFor(hasContentDescription("Settings"))
         compose.onNodeWithContentDescription("Settings").performClick()
-        waitFor(hasText("Created by Kian Konrad Tajbakhsh", substring = true))
+        waitFor(hasText("Created by Kian Konrad", substring = true))
         // performScrollTo repeatedly waits for layout progress while this test deliberately pauses
         // the clock for Sky's infinite animation. Dispatch one scroll and explicitly drive frames.
         compose.onNode(hasScrollAction()).performSemanticsAction(SemanticsActions.ScrollBy) { scrollBy ->
@@ -54,7 +54,7 @@ class PublicationTest {
         }
         compose.mainClock.advanceTimeBy(2_000)
         compose.waitForIdle()
-        compose.onNodeWithText("Created by Kian Konrad Tajbakhsh", substring = true)
+        compose.onNodeWithText("Created by Kian Konrad", substring = true)
             .assertIsDisplayed()
         compose.onNodeWithText("Open-source licenses").assertIsDisplayed().performClick()
         waitFor(hasText("MIT License"))

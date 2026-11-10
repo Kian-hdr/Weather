@@ -12,7 +12,7 @@
 
 <p align="center"><a href="https://github.com/Kian-hdr/Weather/releases/tag/v1.1.1">Release notes</a></p>
 
-A calm, open-source weather app created by **Kian Konrad Tajbakhsh**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
+A calm, open-source weather app created by **Kian Konrad**. Detailed forecasts, translucent glass cards, an animated sky and a clean white icon. No ads, accounts or analytics.
 
 [MIT license](LICENSE) · [Privacy](PRIVACY.md)
 

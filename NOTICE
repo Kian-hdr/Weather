@@ -1,5 +1,5 @@
 Weather for Android
-Copyright (c) 2026 Kian Konrad Tajbakhsh
+Copyright (c) 2026 Kian Konrad
 Original application source and artwork: MIT License (see LICENSE / legal/MIT.txt).
 
 Third-party software remains under its own licenses. AndroidX, Kotlin, kotlinx.coroutines, OkHttp, Okio and other Apache-licensed components use Apache License 2.0. MapLibre Native and its native dependencies retain their upstream notices in MapLibre_Android_13.6.1.txt. The resolved runtime inventory is in DEPENDENCIES.md; bundled artifact notices are in Bundled_Dependency_Notices.txt.

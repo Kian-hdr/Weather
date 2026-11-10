@@ -59,7 +59,7 @@ class PublicationTest {
         compose.onNodeWithText("Open-source licenses").assertIsDisplayed().performClick()
         waitFor(hasText("MIT License"))
         compose.onNodeWithText("MIT License").assertIsDisplayed()
-        compose.onNodeWithText("Copyright (c) 2026 Kian Konrad Tajbakhsh").assertIsDisplayed()
+        compose.onNodeWithText("Copyright (c) 2026 Kian Konrad").assertIsDisplayed()
         compose.onNodeWithText("Done").assertIsDisplayed().performClick()
         compose.waitUntil(timeoutMillis = 10_000) {
             compose.mainClock.advanceTimeByFrame()
@@ -80,7 +80,7 @@ class PublicationTest {
                 assertTrue("Bundled legal/$name must not be empty", it.isNotBlank())
             }
         }
-        assertTrue(texts.getValue("MIT.txt").contains("Copyright (c) 2026 Kian Konrad Tajbakhsh"))
+        assertTrue(texts.getValue("MIT.txt").contains("Copyright (c) 2026 Kian Konrad"))
         val mapLibre = texts.getValue("MapLibre_Android_13.6.1.txt")
         assertTrue("Ship the complete upstream bundle, not just the top-level BSD license", mapLibre.length > 50_000)
         assertTrue(mapLibre.contains("MapLibre Native Android"))

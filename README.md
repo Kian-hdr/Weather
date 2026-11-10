@@ -103,4 +103,4 @@ Bug reports and focused pull requests are welcome. Include your Android version,
 
 ## License and creator
 
-Copyright © 2026 **Kian Konrad Tajbakhsh**. Original source and artwork are released under the [MIT license](LICENSE). Bundled library notices are included in the APK under **Settings → Open-source licenses**.
+Copyright © 2026 **Kian Konrad**. Original source and artwork are released under the [MIT license](LICENSE). Bundled library notices are included in the APK under **Settings → Open-source licenses**.

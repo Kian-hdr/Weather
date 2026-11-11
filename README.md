@@ -1,8 +1,11 @@
-<h1 align="center">Weather for Android</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/README_Title_Dark.svg">
+    <img src="docs/assets/README_Title_Light.svg" width="362" alt="Weather for Android">
+  </picture>
+</p>
 
 <p align="center">A calm, open-source weather app for Android.</p>
-
-<h2 align="center">Download</h2>
 
 <p align="center">
 <a href="https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for Android"></a>

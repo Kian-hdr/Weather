@@ -7,6 +7,8 @@
 
 <p align="center">A calm, open-source weather app for Android.</p>
 
+<p align="center"><img src="docs/assets/Weather_App_Icon.svg" width="96" height="96" alt="Weather app icon"></p>
+
 <p align="center">
 <a href="https://github.com/Kian-hdr/Weather/releases/download/v1.1.1/Weather_v1.1.1.apk"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for Android"></a>
 </p>

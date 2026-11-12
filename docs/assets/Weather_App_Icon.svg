@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <title>Weather app icon</title>
+  <rect width="108" height="108" rx="24" fill="#151B23"/>
+  <g transform="translate(0 13) scale(.95)" fill="#FFFFFF">
+    <path d="M39,69 C29,69 22,63 22,55 C22,47 28,41 36,40 C39,28 50,23 61,27 C69,29 75,36 76,44 C85,44 92,50 92,58 C92,65 86,71 77,71 L39,71 Z"/>
+    <path d="M62,20 A17,17 0,0 1,85,43 L79,42 C77,31 69,24 60,23 Z"/>
+    <path d="M64,10 L64,15 M83,16 L80,20 M96,30 L90,33 M48,13 L51,18 M98,46 L92,46" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+</svg>
